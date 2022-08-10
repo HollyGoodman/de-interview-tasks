@@ -9,8 +9,14 @@ Steps:
 - Create the preprocessed dataset ready for analysis 
 
 - Using the prepared dataset, answer the following questions (you may wish to present the answers in a BI tool of your choice): 
+
 	- Which sales rep generated the most revenue? 
-	- How much (in GBP) did O'Reilly-Braun buy over the period? 
-	- How much (in GBP) was spent on the following skew: EXOB69C38TH 
-
-
+	- How much (in GBP) did "Hackett, Gutmann and Schmitt" buy over the period? 
+	- How much (in GBP) was spent on the following product code: EXOB69C38TH 
+	- What category of product has the highest margin? 
+	- What is the total product revenue over the period? 
+	
+	- Discuss how you have joined the datasets together 
+	- What are the best techniques for replacing null values in this dataset?
+	- What are the best techniques for removing duplicates in this dataset? 
+	- What are the best techniques to ensure consistency of formatting in this dataset? 
